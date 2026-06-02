@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: hmissi-ramzy-portfolio
+    env: node
+    region: ohio
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    routes:
+      - path: /
+        matchType: prefix

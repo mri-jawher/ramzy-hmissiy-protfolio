@@ -1,0 +1,545 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "teaching": "Teaching",
+      "experience": "Experience",
+      "education": "Education",
+      "communities": "Communities"
+    },
+    "hero": {
+      "kicker": "Computer Science & Business Intelligence (BI) Educator",
+      "stat1_value": "2+",
+      "stat1_label": "Years Teaching",
+      "stat2_value": "2024",
+      "stat2_label": "Teaching Since",
+      "stat3_value": "BI",
+      "stat3_label": "Core Specialty",
+      "stat4_value": "3",
+      "stat4_label": "Languages",
+      "headline": "I transform complex BI, SQL, and data architecture into accessible, project-based learning for future engineers and professionals.",
+      "affiliations": ["ITBS", "GOMYCODE", "SASSI SOFT", "TRITUX GROUP"]
+    },
+    "about": {
+      "eyebrow": "Who I am",
+      "title": "Educator, BI engineer, and mentor.",
+      "description": "Dedicated and innovative Computer Science and Business Intelligence teacher with a BI engineering foundation. I design learning tracks around Power BI, SQL, ETL, data warehousing, and data architecture, making complex concepts clear through active learning, real projects, and structured assessment.",
+      "skills": [
+        "Project-Based Learning",
+        "Active Learning",
+        "Curriculum Mapping",
+        "Interactive Lab Design",
+        "Mentoring",
+        "Remote Classroom Management"
+      ]
+    },
+    "competencies": {
+      "eyebrow": "Core strengths",
+      "title": "Teaching and technical competencies",
+      "subtitle": "A teaching profile grounded in BI engineering, data systems, and practical classroom delivery.",
+      "items": [
+        {
+          "icon": "BI",
+          "title": "BI & Data Specializations",
+          "description": "Power BI, Advanced DAX, Kimball data modeling, SSIS, Talend, OLAP cubes, SSAS, and data architecture."
+        },
+        {
+          "icon": "ID",
+          "title": "Instructional Design",
+          "description": "Curriculum mapping, syllabus development, interactive labs, formative and summative assessments."
+        },
+        {
+          "icon": "CS",
+          "title": "Informatics",
+          "description": "SQL Server, Oracle, MySQL, MongoDB, Python, Java, database systems, and applied programming labs."
+        }
+      ]
+    },
+    "teaching": {
+      "eyebrow": "Teaching experience",
+      "title": "Higher education and tech academy instruction",
+      "jobs": [
+        {
+          "time": "Sep 2024 - Present",
+          "title": "Computer Science & BI Lecturer",
+          "org": "IT Business School (ITBS) - Nabeul, Tunisia",
+          "description": "",
+          "items": [
+            "Deliver lectures, tutorials, and practical laboratories in informatics and Business Intelligence.",
+            "Design updated syllabi for data warehousing, dimensional modeling, and Big Data foundations.",
+            "Supervise engineering students through final-year graduation projects with technical validation.",
+            "Coordinate hackathon and peer programming activities that improve collaborative problem-solving."
+          ],
+          "tags": ["Higher Education", "Relational Databases", "BI Architecture", "Academic Mentoring"]
+        },
+        {
+          "time": "Jun 2024 - Present",
+          "title": "Online Power BI Technical Instructor",
+          "org": "GOMYCODE Academy Tunisia - Part-Time",
+          "description": "",
+          "items": [
+            "Teach Power BI, data engineering, and business analytics to professionals and university upskillers.",
+            "Facilitate synchronous online classes with LMS support and live code-along methodology.",
+            "Guide learners from raw data ingestion to DAX modeling and dashboard deployment.",
+            "Provide code reviews, qualitative feedback, and office-hour support for strong retention."
+          ],
+          "tags": ["Power BI", "DAX", "Visual Analytics", "E-Learning"]
+        }
+      ]
+    },
+    "experience": {
+      "eyebrow": "Professional experience",
+      "title": "Industry practice that feeds the classroom",
+      "subtitle": "Real BI, ETL, analytics, and AI/NLP experience translated into authentic lab assignments and project-based learning.",
+      "jobs": [
+        {
+          "time": "Jun 2023 - Mar 2024",
+          "title": "Business Intelligence Consultant",
+          "org": "SASSI SOFT - Paris, France (Remote)",
+          "description": "Engineered enterprise-grade Power BI dashboards and ETL pipelines with SSIS and Talend for international retail analytics. Documented industry cases as anonymized learning material for university labs.",
+          "tags": ["Power BI", "SSIS", "Talend", "Retail Analytics"]
+        },
+        {
+          "time": "Apr 2025 - Sep 2025",
+          "title": "Final-Year Intern - Data Scientist & BI",
+          "org": "Tritux Group - Tunisia",
+          "description": "Developed an AI-driven recruitment screening platform using Python and NLP, adding practical machine-learning methods for advanced AI classroom examples.",
+          "tags": ["Python", "NLP", "AI Screening", "Applied BI"]
+        }
+      ]
+    },
+    "projects": {
+      "eyebrow": "Projects & Portfolio",
+      "title": "Learning materials and teaching platforms"
+    },
+    "education": {
+      "eyebrow": "Education",
+      "title": "Academic foundation and certifications",
+      "degrees": [
+        {
+          "title": "Engineering Degree in Business Intelligence",
+          "org": "IT Business School (ITBS)",
+          "year": "2026"
+        },
+        {
+          "title": "Higher Technician Diploma in Embedded and Mobile Systems",
+          "org": "Higher Institute of Technological Studies of Nabeul",
+          "year": "2021"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "IBM Machine Learning Professional",
+          "description": "Professional certification supporting applied AI and data-science teaching."
+        },
+        {
+          "title": "Programming Databases with Oracle SQL",
+          "description": "Certification in relational database programming and SQL foundations."
+        }
+      ]
+    },
+    "communities": {
+      "eyebrow": "Communities",
+      "title": "Technical leadership and student involvement",
+      "items": [
+        {
+          "title": "IEEE Student Community",
+          "description": "Technical workshops, conferences, and professional networking activities."
+        },
+        {
+          "title": "Orange Digital Center",
+          "description": "Innovation, entrepreneurship, and digital skills development events."
+        },
+        {
+          "title": "ISET Nabeul Events",
+          "description": "Academic, technical, and student engagement activities."
+        },
+        {
+          "title": "Project Team Leader",
+          "description": "Led multidisciplinary academic software projects at ISET Nabeul from 2023 to 2024."
+        },
+        {
+          "title": "Peer Mentor",
+          "description": "Supported students in programming, databases, and software engineering coursework."
+        },
+        {
+          "title": "Languages",
+          "description": "Arabic native, French fluent, and English advanced for instruction."
+        }
+      ]
+    },
+    "footer": {
+      "title": "HMISSI RAMZY",
+      "description": "Computer Science and Business Intelligence educator focused on active, project-based learning for data, BI, and software foundations.",
+      "links": ["Teaching", "Experience", "Education"],
+      "copyright": "© 2026 All rights reserved.",
+      "location": "Nabeul, Tunisia",
+      "theme_toggle": "Toggle theme",
+      "cv_download": "Download CV",
+      "menu": "Menu"
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "teaching": "Enseignement",
+      "experience": "Expérience",
+      "education": "Formation",
+      "communities": "Communautés"
+    },
+    "hero": {
+      "kicker": "Éducateur en Informatique et Intelligence Économique (BI)",
+      "stat1_value": "2+",
+      "stat1_label": "Années d'enseignement",
+      "stat2_value": "2024",
+      "stat2_label": "Enseignement depuis",
+      "stat3_value": "BI",
+      "stat3_label": "Spécialité principale",
+      "stat4_value": "3",
+      "stat4_label": "Langues",
+      "headline": "Je transforme l'architecture BI, SQL et données complexes en apprentissage accessible et basé sur des projets pour les futurs ingénieurs et professionnels.",
+      "affiliations": ["ITBS", "GOMYCODE", "SASSI SOFT", "TRITUX GROUP"]
+    },
+    "about": {
+      "eyebrow": "Qui suis-je",
+      "title": "Éducateur, ingénieur BI et mentor.",
+      "description": "Enseignant en Informatique et Intelligence Économique dédié et innovant avec une base d'ingénierie BI. Je conçois des parcours d'apprentissage autour de Power BI, SQL, ETL, entreposage de données et architecture de données, rendant les concepts complexes clairs par l'apprentissage actif, les vrais projets et l'évaluation structurée.",
+      "skills": [
+        "Apprentissage basé sur les projets",
+        "Apprentissage actif",
+        "Mappage du curriculum",
+        "Conception de laboratoires interactifs",
+        "Mentorat",
+        "Gestion de classe à distance"
+      ]
+    },
+    "competencies": {
+      "eyebrow": "Points forts",
+      "title": "Compétences en enseignement et techniques",
+      "subtitle": "Un profil d'enseignement basé sur l'ingénierie BI, les systèmes de données et la livraison pratique en classe.",
+      "items": [
+        {
+          "icon": "BI",
+          "title": "Spécialisations en BI et données",
+          "description": "Power BI, DAX avancé, modélisation de données Kimball, SSIS, Talend, cubes OLAP, SSAS et architecture de données."
+        },
+        {
+          "icon": "ID",
+          "title": "Conception pédagogique",
+          "description": "Mappage du curriculum, développement de syllabus, laboratoires interactifs, évaluations formatives et sommatives."
+        },
+        {
+          "icon": "CS",
+          "title": "Informatique",
+          "description": "SQL Server, Oracle, MySQL, MongoDB, Python, Java, systèmes de bases de données et laboratoires de programmation appliquée."
+        }
+      ]
+    },
+    "teaching": {
+      "eyebrow": "Expérience d'enseignement",
+      "title": "Enseignement supérieur et instruction en académies technologiques",
+      "jobs": [
+        {
+          "time": "Sep 2024 - Présent",
+          "title": "Chargé de cours en Informatique et BI",
+          "org": "École d'Affaires Informatiques (ITBS) - Nabeul, Tunisie",
+          "description": "",
+          "items": [
+            "Dispenser des cours, des tutoriels et des laboratoires pratiques en informatique et Intelligence Économique.",
+            "Concevoir des syllabus mis à jour pour l'entreposage de données, la modélisation dimensionnelle et les fondements du Big Data.",
+            "Superviser les étudiants en ingénierie dans leurs projets de fin d'études avec validation technique.",
+            "Coordonner les hackathons et les activités de programmation en équipe qui améliorent la résolution de problèmes collaborative."
+          ],
+          "tags": ["Enseignement supérieur", "Bases de données relationnelles", "Architecture BI", "Mentorat académique"]
+        },
+        {
+          "time": "Jun 2024 - Présent",
+          "title": "Instructeur technique Power BI en ligne",
+          "org": "Académie GOMYCODE Tunisie - Temps partiel",
+          "description": "",
+          "items": [
+            "Enseigner Power BI, l'ingénierie des données et l'analyse commerciale aux professionnels et aux étudiants en formation.",
+            "Faciliter des cours en ligne synchrones avec support LMS et méthodologie de code-along en direct.",
+            "Guider les apprenants de l'ingestion de données brutes à la modélisation DAX et au déploiement de tableaux de bord.",
+            "Fournir des examens de code, des retours qualitatifs et un soutien en heures de bureau pour une forte rétention."
+          ],
+          "tags": ["Power BI", "DAX", "Analyse visuelle", "E-learning"]
+        }
+      ]
+    },
+    "experience": {
+      "eyebrow": "Expérience professionnelle",
+      "title": "La pratique industrielle qui alimente la salle de classe",
+      "subtitle": "Expérience réelle en BI, ETL, analyse et IA/NLP traduite en devoirs de laboratoire authentiques et apprentissage basé sur les projets.",
+      "jobs": [
+        {
+          "time": "Jun 2023 - Mar 2024",
+          "title": "Consultant en Intelligence Économique",
+          "org": "SASSI SOFT - Paris, France (Télétravail)",
+          "description": "Conçu des tableaux de bord Power BI au niveau entreprise et des pipelines ETL avec SSIS et Talend pour l'analyse de la vente au détail internationale. Documenté les cas industriels comme matériel d'apprentissage anonymisé pour les laboratoires universitaires.",
+          "tags": ["Power BI", "SSIS", "Talend", "Analyse du commerce de détail"]
+        },
+        {
+          "time": "Avr 2025 - Sep 2025",
+          "title": "Stagiaire de dernière année - Data Scientist et BI",
+          "org": "Tritux Group - Tunisie",
+          "description": "Développé une plateforme de sélection de recrutement pilotée par l'IA utilisant Python et NLP, ajoutant des méthodes d'apprentissage automatique pratiques pour des exemples avancés de classe IA.",
+          "tags": ["Python", "NLP", "Sélection IA", "BI appliqué"]
+        }
+      ]
+    },
+    "projects": {
+      "eyebrow": "Projets et portfolio",
+      "title": "Matériaux d'apprentissage et plateformes d'enseignement"
+    },
+    "education": {
+      "eyebrow": "Formation",
+      "title": "Fondation académique et certifications",
+      "degrees": [
+        {
+          "title": "Diplôme d'ingénieur en Intelligence Économique",
+          "org": "École d'Affaires Informatiques (ITBS)",
+          "year": "2026"
+        },
+        {
+          "title": "Diplôme de technicien supérieur en systèmes embarqués et mobiles",
+          "org": "Institut supérieur d'études technologiques de Nabeul",
+          "year": "2021"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "IBM Machine Learning Professional",
+          "description": "Certification professionnelle soutenant l'enseignement appliqué de l'IA et de la science des données."
+        },
+        {
+          "title": "Programmation de bases de données avec Oracle SQL",
+          "description": "Certification en programmation de bases de données relationnelles et fondements SQL."
+        }
+      ]
+    },
+    "communities": {
+      "eyebrow": "Communautés",
+      "title": "Leadership technique et implication des étudiants",
+      "items": [
+        {
+          "title": "Communauté IEEE Student",
+          "description": "Ateliers techniques, conférences et activités de réseautage professionnel."
+        },
+        {
+          "title": "Centre numérique Orange",
+          "description": "Innovation, entrepreneuriat et événements de développement des compétences numériques."
+        },
+        {
+          "title": "Événements ISET Nabeul",
+          "description": "Activités académiques, techniques et d'engagement étudiant."
+        },
+        {
+          "title": "Chef de projet",
+          "description": "Dirigé des projets logiciels académiques multidisciplinaires à l'ISET Nabeul de 2023 à 2024."
+        },
+        {
+          "title": "Mentor par les pairs",
+          "description": "Soutenu les étudiants en programmation, bases de données et cours d'ingénierie logicielle."
+        },
+        {
+          "title": "Langues",
+          "description": "Arabe natif, français courant et anglais avancé pour l'enseignement."
+        }
+      ]
+    },
+    "footer": {
+      "title": "HMISSI RAMZY",
+      "description": "Éducateur en Informatique et Intelligence Économique axé sur l'apprentissage actif et basé sur les projets pour les données, l'BI et les fondements logiciels.",
+      "links": ["Enseignement", "Expérience", "Formation"],
+      "copyright": "© 2026 Tous droits réservés.",
+      "location": "Nabeul, Tunisie",
+      "theme_toggle": "Basculer le thème",
+      "cv_download": "Télécharger le CV",
+      "menu": "Menu"
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "about": "من أنا",
+      "teaching": "التدريس",
+      "experience": "الخبرة",
+      "education": "التعليم",
+      "communities": "المجتمعات"
+    },
+    "hero": {
+      "kicker": "مربي علوم الحاسوب والذكاء الاقتصادي",
+      "stat1_value": "2+",
+      "stat1_label": "سنوات التدريس",
+      "stat2_value": "2024",
+      "stat2_label": "مدرس منذ",
+      "stat3_value": "BI",
+      "stat3_label": "التخصص الأساسي",
+      "stat4_value": "3",
+      "stat4_label": "اللغات",
+      "headline": "أحول البنية المعقدة للذكاء الاقتصادي و SQL والبيانات إلى تعليم يسهل الوصول إليه وقائم على المشاريع للمهندسين والمهنيين في المستقبل.",
+      "affiliations": ["ITBS", "GOMYCODE", "SASSI SOFT", "TRITUX GROUP"]
+    },
+    "about": {
+      "eyebrow": "من أنا",
+      "title": "مربي وعالم ذكاء اقتصادي ومرشد.",
+      "description": "معلم علوم حاسوب وذكاء اقتصادي مكرس ومبتكر مع أساس هندسي في الذكاء الاقتصادي. أصمم مسارات تعليمية حول Power BI و SQL و ETL وتخزين البيانات وهندسة البيانات، مما يجعل المفاهيم المعقدة واضحة من خلال التعليم النشط والمشاريع الحقيقية والتقييم المنظم.",
+      "skills": [
+        "التعليم القائم على المشاريع",
+        "التعليم النشط",
+        "رسم منهاج التدريس",
+        "تصميم معامل تفاعلية",
+        "الإرشاد",
+        "إدارة الفصل الدراسي عن بعد"
+      ]
+    },
+    "competencies": {
+      "eyebrow": "نقاط القوة الأساسية",
+      "title": "كفاءات التدريس والتقنية",
+      "subtitle": "ملف تعريف تدريسي مبني على هندسة الذكاء الاقتصادي وأنظمة البيانات والتسليم العملي في الفصل الدراسي.",
+      "items": [
+        {
+          "icon": "BI",
+          "title": "تخصصات الذكاء الاقتصادي والبيانات",
+          "description": "Power BI و DAX المتقدم ونمذجة البيانات Kimball و SSIS و Talend وأكواب OLAP و SSAS وهندسة البيانات."
+        },
+        {
+          "icon": "ID",
+          "title": "تصميم تعليمي",
+          "description": "رسم منهاج التدريس وتطوير المنهج الدراسي والمعامل التفاعلية والتقييمات التكوينية والتجميعية."
+        },
+        {
+          "icon": "CS",
+          "title": "المعلوماتية",
+          "description": "SQL Server و Oracle و MySQL و MongoDB و Python و Java وأنظمة قواعد البيانات ومعامل البرمجة التطبيقية."
+        }
+      ]
+    },
+    "teaching": {
+      "eyebrow": "خبرة التدريس",
+      "title": "التعليم العالي والتدريس في أكاديميات التكنولوجيا",
+      "jobs": [
+        {
+          "time": "سبتمبر 2024 - الحالي",
+          "title": "محاضر علوم الحاسوب والذكاء الاقتصادي",
+          "org": "كلية تكنولوجيا المعلومات - نابل، تونس",
+          "description": "",
+          "items": [
+            "إلقاء المحاضرات والدروس والمختبرات العملية في المعلوماتية والذكاء الاقتصادي.",
+            "تصميم المناهج الدراسية المحدثة لتخزين البيانات والنمذجة الأبعاد وأساسيات البيانات الضخمة.",
+            "الإشراف على طلاب الهندسة خلال مشاريع التخرج النهائية مع التحقق التقني.",
+            "تنسيق عروض الهاكاثون وأنشطة البرمجة المزدوجة التي تحسن حل المشاكل التعاوني."
+          ],
+          "tags": ["التعليم العالي", "قواعد البيانات العلائقية", "معمارية الذكاء الاقتصادي", "الإرشاد الأكاديمي"]
+        },
+        {
+          "time": "يونيو 2024 - الحالي",
+          "title": "مدرب Power BI التقني عبر الإنترنت",
+          "org": "أكاديمية GOMYCODE تونس - بدوام جزئي",
+          "description": "",
+          "items": [
+            "تدريس Power BI وهندسة البيانات والتحليلات التجارية للمحترفين وأولئك الذين يتابعون دورات إعادة التأهيل الجامعية.",
+            "تيسير الفصول الدراسية المتزامنة عبر الإنترنت مع دعم نظام إدارة التعليم والمنهجية المباشرة للترميز.",
+            "إرشاد المتعلمين من بيانات الابتلاع الخام إلى نمذجة DAX ونشر لوحات المعلومات.",
+            "تقديم مراجعات التعليمات البرمجية والتعليقات النوعية ودعم ساعات المكتب لاحتفاظ قوي."
+          ],
+          "tags": ["Power BI", "DAX", "تحليل مرئي", "التعليم الإلكتروني"]
+        }
+      ]
+    },
+    "experience": {
+      "eyebrow": "الخبرة المهنية",
+      "title": "الممارسة الصناعية التي تغذي الفصل الدراسي",
+      "subtitle": "تجربة حقيقية في الذكاء الاقتصادي و ETL والتحليلات و AI/NLP مترجمة إلى مهام معمل حقيقية وتعليم قائم على المشاريع.",
+      "jobs": [
+        {
+          "time": "يونيو 2023 - مارس 2024",
+          "title": "مستشار الذكاء الاقتصادي",
+          "org": "SASSI SOFT - باريس، فرنسا (عن بعد)",
+          "description": "قمت بهندسة لوحات معلومات Power BI من الدرجة الأولى وخطوط أنابيب ETL مع SSIS و Talend لتحليلات البيع بالتجزئة الدولية. وثقت حالات صناعية كمواد تعليمية مجهول الهوية لمعامل جامعية.",
+          "tags": ["Power BI", "SSIS", "Talend", "تحليلات البيع بالتجزئة"]
+        },
+        {
+          "time": "أبريل 2025 - سبتمبر 2025",
+          "title": "متدرب السنة الأخيرة - عالم بيانات والذكاء الاقتصادي",
+          "org": "مجموعة Tritux - تونس",
+          "description": "طورت منصة فحص توظيف مدفوعة بالذكاء الاصطناعي باستخدام Python و NLP، مما أضاف طرقًا عملية للتعليم الآلي لأمثلة درس الذكاء الاصطناعي المتقدمة.",
+          "tags": ["Python", "NLP", "فحص الذكاء الاصطناعي", "ذكاء اقتصادي تطبيقي"]
+        }
+      ]
+    },
+    "projects": {
+      "eyebrow": "المشاريع والمحفظة",
+      "title": "مواد التعليم والمنصات التعليمية"
+    },
+    "education": {
+      "eyebrow": "التعليم",
+      "title": "الأساس الأكاديمي والشهادات",
+      "degrees": [
+        {
+          "title": "درجة الهندسة في الذكاء الاقتصادي",
+          "org": "كلية تكنولوجيا المعلومات - ITBS",
+          "year": "2026"
+        },
+        {
+          "title": "دبلوم الدراسات العليا التقنية في الأنظمة المدمجة والمحمولة",
+          "org": "المعهد العالي للدراسات التكنولوجية بنابل",
+          "year": "2021"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "IBM Machine Learning Professional",
+          "description": "شهادة مهنية تدعم تدريس الذكاء الاصطناعي وعلوم البيانات التطبيقية."
+        },
+        {
+          "title": "برمجة قواعد البيانات مع Oracle SQL",
+          "description": "شهادة في برمجة قاعدة البيانات العلائقية وأساسيات SQL."
+        }
+      ]
+    },
+    "communities": {
+      "eyebrow": "المجتمعات",
+      "title": "القيادة التقنية وانخراط الطلاب",
+      "items": [
+        {
+          "title": "مجتمع طلاب IEEE",
+          "description": "ورش عمل تقنية وحلقات دراسية وأنشطة الشبكات المهنية."
+        },
+        {
+          "title": "مركز أورانج الرقمي",
+          "description": "الابتكار وريادة الأعمال وفعاليات تطوير المهارات الرقمية."
+        },
+        {
+          "title": "فعاليات ISET نابل",
+          "description": "الأنشطة الأكاديمية والتقنية والطلابية."
+        },
+        {
+          "title": "قائد فريق المشروع",
+          "description": "قيادة مشاريع برمجيات أكاديمية متعددة التخصصات في ISET نابل من 2023 إلى 2024."
+        },
+        {
+          "title": "مرشد الأقران",
+          "description": "دعم الطلاب في البرمجة وقواعد البيانات ودورات هندسة البرمجيات."
+        },
+        {
+          "title": "اللغات",
+          "description": "اللغة العربية الأم واللغة الفرنسية بطلاقة واللغة الإنجليزية متقدمة للتدريس."
+        }
+      ]
+    },
+    "footer": {
+      "title": "HMISSI RAMZY",
+      "description": "معلم علوم الحاسوب والذكاء الاقتصادي يركز على التعليم النشط والقائم على المشاريع للبيانات والذكاء الاقتصادي وأساسيات البرامج.",
+      "links": ["التدريس", "الخبرة", "التعليم"],
+      "copyright": "© 2026 جميع الحقوق محفوظة.",
+      "location": "نابل، تونس",
+      "theme_toggle": "تبديل المظهر",
+      "cv_download": "تحميل السيرة الذاتية",
+      "menu": "القائمة"
+    }
+  }
+}

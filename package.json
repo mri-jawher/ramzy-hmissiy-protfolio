@@ -1,0 +1,10 @@
+{
+  "name": "hmissi-ramzy-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "mirror": "node scripts/mirror-site.mjs",
+    "start": "node server.js"
+  }
+}
